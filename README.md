@@ -61,18 +61,19 @@ VAR FinalMatchWinner =
               ipl_matches_data[match_date] = FinalMatchDate)
 RETURN FinalMatchWinner
 
+```
 
-**5️⃣ Dashboard Design**
+### 5️⃣ Dashboard Design
 
-Interactive visuals: bar charts, tables, KPIs, and slicers  
+Interactive visuals: bar charts, tables, KPIs, and slicers
 
-Dynamic filters: by Season, Player, Team  
+Dynamic filters: by Season, Player, Team
 
-Logos & player images: via LOOKUPVALUE for a better UI  
+Logos & player images: via LOOKUPVALUE for a better UI
 
-Color theme: IPL-inspired  
+Color theme: IPL-inspired
 
-**📊 Key Insights**  
+### 📊 Key Insights 
 
 📌 Season-wise winner & runner-up  
 
