@@ -62,7 +62,7 @@ VAR FinalMatchWinner =
 RETURN FinalMatchWinner
 
 
-5️⃣ Dashboard Design
+**5️⃣ Dashboard Design**
 
 Interactive visuals: bar charts, tables, KPIs, and slicers
 
