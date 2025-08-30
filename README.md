@@ -64,22 +64,20 @@ RETURN FinalMatchWinner
 
 **5️⃣ Dashboard Design**
 
-Interactive visuals: bar charts, tables, KPIs, and slicers
+Interactive visuals: bar charts, tables, KPIs, and slicers  
 
-Dynamic filters: by Season, Player, Team
+Dynamic filters: by Season, Player, Team  
 
-Logos & player images: via LOOKUPVALUE for a better UI
+Logos & player images: via LOOKUPVALUE for a better UI  
 
-Color theme: IPL-inspired
+Color theme: IPL-inspired  
 
-📊 Key Insights
+**📊 Key Insights**  
 
-📌 Season-wise winner & runner-up
+📌 Season-wise winner & runner-up  
 
-📌 Top batsman (Orange Cap) and bowler (Purple Cap)
+📌 Top batsman (Orange Cap) and bowler (Purple Cap)  
 
-📌 Team-wise and player-wise statistics
+📌 Team-wise and player-wise statistics  
 
-📌 Trend of fours & sixes across years
-
-
+📌 Trend of fours & sixes across years  
